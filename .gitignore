@@ -1,0 +1,12 @@
+# Ignore compiled Python files
+*.pyc
+
+# Ignore virtual environment directories
+.venv/
+
+# Ignore Docker image files
+*.docker
+
+# Ignore Terraform state files
+terraform.tfstate
+terraform.tfstate.backup
