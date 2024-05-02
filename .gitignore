@@ -10,3 +10,4 @@
 # Ignore Terraform state files
 terraform.tfstate
 terraform.tfstate.backup
+C:\Users\ahink\devops-journey\python\AzureKubernetesServiceDeployment\.terraform\providers\registry.terraform.io\hashicorp\azurerm\3.101.0\windows_amd64
